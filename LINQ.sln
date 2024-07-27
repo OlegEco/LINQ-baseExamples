@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{B89D019E-FB38-4C5F-B9C7-4943D8E52FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQeasySyntax", "LINQeasySyntax\LINQeasySyntax.csproj", "{E4A65810-6966-44E6-B43C-7F665A6A1A8C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B89D019E-FB38-4C5F-B9C7-4943D8E52FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B89D019E-FB38-4C5F-B9C7-4943D8E52FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B89D019E-FB38-4C5F-B9C7-4943D8E52FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A65810-6966-44E6-B43C-7F665A6A1A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A65810-6966-44E6-B43C-7F665A6A1A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A65810-6966-44E6-B43C-7F665A6A1A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A65810-6966-44E6-B43C-7F665A6A1A8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
