@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructionStrategiesCompl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectionStrategies", "ProjectionStrategies\ProjectionStrategies.csproj", "{8F27767D-A44C-476A-A243-C420275F8546}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpretieredQueries", "InterpretieredQueries\InterpretieredQueries.csproj", "{4EF37466-7E7C-4DE1-A0E7-657DFC09C982}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8F27767D-A44C-476A-A243-C420275F8546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F27767D-A44C-476A-A243-C420275F8546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F27767D-A44C-476A-A243-C420275F8546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF37466-7E7C-4DE1-A0E7-657DFC09C982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF37466-7E7C-4DE1-A0E7-657DFC09C982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF37466-7E7C-4DE1-A0E7-657DFC09C982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF37466-7E7C-4DE1-A0E7-657DFC09C982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
