@@ -1,6 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-
-string[] names = { "Tom", "Jack", "Max", "Harry", "Mary", "Jay", "Dick", "Oster" };
+﻿string[] names = { "Tom", "Jack", "Max", "Harry", "Mary", "Jay", "Dick", "Oster" };
 IEnumerable<string> query =
     from n in names // filtered elements
     where n.Contains("a") //sorted elements

@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Text.RegularExpressions;
+﻿using System.Text.RegularExpressions;
 
 string[] names = { "Tom", "Jack", "Max", "Harry", "Mary", "Jay", "Dick", "Oster" };
 IEnumerable<string> query1 = names

@@ -1,7 +1,4 @@
-﻿using System.Globalization;
-using System.Runtime.CompilerServices;
-
-string[] names = { "Tom", "Jack", "Harry", "Jameson", "Lyudovig", "Mary", "Lucy", "Jay" };
+﻿string[] names = { "Tom", "Jack", "Harry", "Jameson", "Lyudovig", "Mary", "Lucy", "Jay" };
 
 IEnumerable<string> filteredNames = Enumerable.Where(names, n => n.Length > 4);
 //or short
